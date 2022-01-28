@@ -3,12 +3,23 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-28T16:14:12.386423063Z"
+    created: "2022-01-28T17:16:27.179263883Z"
     description: A Helm chart for Kubernetes
     digest: 7934a2e28174b5bc666e79ec4586264188b4c141f09fcec25294cfface8a57fa
     name: mychart
     type: application
     urls:
-    - https://github.com/xwzhai/hm-repo.git/mychart-0.1.0.tgz
+    - https://xwzhai.github.io/hm-repo/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-28T16:14:12.385779107Z"
+  myweb:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-28T17:16:27.179726728Z"
+    description: A Helm chart for Kubernetes
+    digest: 303e356ea770fca88a9d7e550b4e0b0c42acdec58dfc69eb127b6ca905324d4c
+    name: myweb
+    type: application
+    urls:
+    - https://xwzhai.github.io/hm-repo/myweb-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-28T17:16:27.178628232Z"
