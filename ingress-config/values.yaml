@@ -1,0 +1,24 @@
+ingress:
+  hosts:
+    - host: selfhost.xwzhai.xyz
+      paths:
+        - path: /capig
+          pathType: Prefix
+          service:
+            name: capig
+            port: 80
+        - path: /mini-web
+          pathType: Prefix
+          service:
+            name: myweb
+            port: 80
+  rps: 10
+  letsEncryptEmail: zhaixiangwei.001@bytedance.com
+  tls:
+    - secretName: secret-tls
+      hosts:
+        - selfhost.xwzhai.xyz
+
+service:
+  type: ClusterIP
+  port: 80

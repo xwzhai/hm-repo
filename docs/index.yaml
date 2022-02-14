@@ -3,7 +3,7 @@ entries:
   capig:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T19:00:06.106132623Z"
+    created: "2022-02-14T08:44:38.55070809Z"
     description: capig
     digest: 4cb24cd43295eb2ffbd22f680cc6c6caaf266dcc36716016ef6d471f132ed11d
     name: capig
@@ -13,7 +13,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T19:00:06.105354353Z"
+    created: "2022-02-14T08:44:38.549945613Z"
     description: capig
     digest: e2a848ea964c989c9fb8fe3d0ae18d10fb70113acd36c9671d77f53f702f0271
     name: capig
@@ -24,7 +24,7 @@ entries:
   ingress-config:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-02-13T19:00:06.107162859Z"
+    created: "2022-02-14T08:44:38.552021929Z"
     description: A Helm chart for Kubernetes
     digest: eab796a5d004da5d9ba8a7103ec5f2bd190ca4c37753a3e75d6df064eb3ac10e
     name: ingress-config
@@ -34,7 +34,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-02-13T19:00:06.106775433Z"
+    created: "2022-02-14T08:44:38.551391516Z"
     description: A Helm chart for Kubernetes
     digest: 6d72fb21d7bda15693f377feac6da5fe4a1d8e6ec360370a6823b3f7fe363b17
     name: ingress-config
@@ -45,7 +45,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T19:00:06.108112131Z"
+    created: "2022-02-14T08:44:38.552959733Z"
     description: A Helm chart for Kubernetes
     digest: 7934a2e28174b5bc666e79ec4586264188b4c141f09fcec25294cfface8a57fa
     name: mychart
@@ -56,7 +56,17 @@ entries:
   myweb:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T19:00:06.110235516Z"
+    created: "2022-02-14T08:44:38.555375928Z"
+    description: A Helm chart for Kubernetes
+    digest: d6feb6f549fa8910ceeaff45369da9840fd27b2e5dc0a616a6533e95e748ce42
+    name: myweb
+    type: application
+    urls:
+    - https://xwzhai.github.io/hm-repo/myweb-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-14T08:44:38.554904736Z"
     description: A Helm chart for Kubernetes
     digest: a8796e4f3a55aa8eac42c4baa4e1228a0ca67ca6b36b8eb92b6009e9c030d90a
     name: myweb
@@ -66,7 +76,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T19:00:06.109497409Z"
+    created: "2022-02-14T08:44:38.554258266Z"
     description: A Helm chart for Kubernetes
     digest: 4da3c468583d30c11da1fee10351f86fe93fb45952dd92cfc4e7c5d5bd1851fb
     name: myweb
@@ -76,7 +86,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T19:00:06.108788693Z"
+    created: "2022-02-14T08:44:38.553625131Z"
     description: A Helm chart for Kubernetes
     digest: 303e356ea770fca88a9d7e550b4e0b0c42acdec58dfc69eb127b6ca905324d4c
     name: myweb
@@ -84,4 +94,4 @@ entries:
     urls:
     - https://xwzhai.github.io/hm-repo/myweb-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-13T19:00:06.104162428Z"
+generated: "2022-02-14T08:44:38.548995888Z"
