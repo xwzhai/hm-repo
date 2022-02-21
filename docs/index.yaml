@@ -3,7 +3,7 @@ entries:
   capig:
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2022-02-21T08:02:18.349480201Z"
+    created: "2022-02-21T08:10:26.740688847Z"
     description: capig
     digest: aff65e2f5692050ac3a7355d64f8741008db20e412c51d6c8da0c7b6016d4633
     name: capig
@@ -13,7 +13,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2022-02-21T08:02:18.348796969Z"
+    created: "2022-02-21T08:10:26.740151202Z"
     description: capig
     digest: 2cba57c2be7acfc9405ff9f1fd0e67373102835bc58786113a084a83c6e71583
     name: capig
@@ -23,7 +23,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-21T08:02:18.348002847Z"
+    created: "2022-02-21T08:10:26.73964234Z"
     description: capig
     digest: 4cb24cd43295eb2ffbd22f680cc6c6caaf266dcc36716016ef6d471f132ed11d
     name: capig
@@ -33,7 +33,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-21T08:02:18.346959326Z"
+    created: "2022-02-21T08:10:26.739100526Z"
     description: capig
     digest: e2a848ea964c989c9fb8fe3d0ae18d10fb70113acd36c9671d77f53f702f0271
     name: capig
@@ -44,9 +44,9 @@ entries:
   fl-bf:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-02-21T08:02:18.350052451Z"
+    created: "2022-02-21T08:10:26.741242483Z"
     description: A Helm chart for Kubernetes
-    digest: 07dd6e8c1ab2a2d99be88121b8f94e3fe4dca7b9f2ca39d7defd7adb3f0d9910
+    digest: b728f6d1cce95b65f03ac7ea54b802c683472664f6ea1b4de27b9111d53cea2c
     name: fl-bf
     type: application
     urls:
@@ -55,7 +55,7 @@ entries:
   ingress-config:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-02-21T08:02:18.351203174Z"
+    created: "2022-02-21T08:10:26.742038478Z"
     description: A Helm chart for Kubernetes
     digest: eab796a5d004da5d9ba8a7103ec5f2bd190ca4c37753a3e75d6df064eb3ac10e
     name: ingress-config
@@ -65,7 +65,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-02-21T08:02:18.350626115Z"
+    created: "2022-02-21T08:10:26.741607017Z"
     description: A Helm chart for Kubernetes
     digest: 6d72fb21d7bda15693f377feac6da5fe4a1d8e6ec360370a6823b3f7fe363b17
     name: ingress-config
@@ -76,7 +76,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-21T08:02:18.352304449Z"
+    created: "2022-02-21T08:10:26.742532073Z"
     description: A Helm chart for Kubernetes
     digest: 7934a2e28174b5bc666e79ec4586264188b4c141f09fcec25294cfface8a57fa
     name: mychart
@@ -87,7 +87,7 @@ entries:
   myweb:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-21T08:02:18.355163398Z"
+    created: "2022-02-21T08:10:26.744340052Z"
     description: A Helm chart for Kubernetes
     digest: c0d520f36b653c5fd5e86ffbbe96f57ca3ad85b5f11f75299b4dbb6b51a809e2
     name: myweb
@@ -97,7 +97,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-21T08:02:18.354438823Z"
+    created: "2022-02-21T08:10:26.74389225Z"
     description: A Helm chart for Kubernetes
     digest: a8796e4f3a55aa8eac42c4baa4e1228a0ca67ca6b36b8eb92b6009e9c030d90a
     name: myweb
@@ -107,7 +107,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-21T08:02:18.353747124Z"
+    created: "2022-02-21T08:10:26.743406867Z"
     description: A Helm chart for Kubernetes
     digest: 4da3c468583d30c11da1fee10351f86fe93fb45952dd92cfc4e7c5d5bd1851fb
     name: myweb
@@ -117,7 +117,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-21T08:02:18.353058045Z"
+    created: "2022-02-21T08:10:26.742968826Z"
     description: A Helm chart for Kubernetes
     digest: 303e356ea770fca88a9d7e550b4e0b0c42acdec58dfc69eb127b6ca905324d4c
     name: myweb
@@ -125,4 +125,4 @@ entries:
     urls:
     - https://xwzhai.github.io/hm-repo/myweb-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-21T08:02:18.345973815Z"
+generated: "2022-02-21T08:10:26.738389308Z"
