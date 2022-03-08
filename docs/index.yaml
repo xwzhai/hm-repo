@@ -3,7 +3,7 @@ entries:
   capig:
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2022-03-06T12:01:19.695229902Z"
+    created: "2022-03-08T04:05:45.325410891Z"
     description: capig
     digest: bd979885370a59c482175c699ec4c528fb732eb398d301debe8f405c746c5784
     name: capig
@@ -13,7 +13,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2022-03-06T12:01:19.69470311Z"
+    created: "2022-03-08T04:05:45.324831304Z"
     description: capig
     digest: c3377e9c2f38f441e85f92af1e0b9e2511074305b3a47b2c200b08ace6b0793a
     name: capig
@@ -23,7 +23,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2022-03-06T12:01:19.694215866Z"
+    created: "2022-03-08T04:05:45.324111394Z"
     description: capig
     digest: aff65e2f5692050ac3a7355d64f8741008db20e412c51d6c8da0c7b6016d4633
     name: capig
@@ -33,7 +33,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2022-03-06T12:01:19.69350735Z"
+    created: "2022-03-08T04:05:45.323295269Z"
     description: capig
     digest: 2cba57c2be7acfc9405ff9f1fd0e67373102835bc58786113a084a83c6e71583
     name: capig
@@ -43,7 +43,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-06T12:01:19.692741767Z"
+    created: "2022-03-08T04:05:45.322527017Z"
     description: capig
     digest: 4cb24cd43295eb2ffbd22f680cc6c6caaf266dcc36716016ef6d471f132ed11d
     name: capig
@@ -53,7 +53,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-06T12:01:19.691938541Z"
+    created: "2022-03-08T04:05:45.321787274Z"
     description: capig
     digest: e2a848ea964c989c9fb8fe3d0ae18d10fb70113acd36c9671d77f53f702f0271
     name: capig
@@ -64,7 +64,7 @@ entries:
   fl-bf:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-03-06T12:01:19.69575723Z"
+    created: "2022-03-08T04:05:45.32605754Z"
     description: A Helm chart for Kubernetes
     digest: 682f6f9faf18a927ee7d5388a1242796b4a69e50ba18fd48a61cf28d1277c8c8
     name: fl-bf
@@ -74,8 +74,18 @@ entries:
     version: 0.0.1
   ingress-config:
   - apiVersion: v2
+    appVersion: 0.0.5
+    created: "2022-03-08T04:05:45.328777997Z"
+    description: A Helm chart for Kubernetes
+    digest: 9f6c3a7b6a7074ae9abebca798cd2546d0ae0b7a056bf4bfab4df207d201de50
+    name: ingress-config
+    type: application
+    urls:
+    - https://xwzhai.github.io/hm-repo/ingress-config-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-03-06T12:01:19.697778966Z"
+    created: "2022-03-08T04:05:45.328399414Z"
     description: A Helm chart for Kubernetes
     digest: 5e09a2764e440d0521f287c38923eeb15e61d399c9b7725140dc7031c108c158
     name: ingress-config
@@ -85,7 +95,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-03-06T12:01:19.697447541Z"
+    created: "2022-03-08T04:05:45.327685862Z"
     description: A Helm chart for Kubernetes
     digest: 635ab7f16659ce0afccee718fe7f43fb04c206a355e2b23b9ce49d2949983739
     name: ingress-config
@@ -95,7 +105,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-03-06T12:01:19.697018068Z"
+    created: "2022-03-08T04:05:45.327278397Z"
     description: A Helm chart for Kubernetes
     digest: eab796a5d004da5d9ba8a7103ec5f2bd190ca4c37753a3e75d6df064eb3ac10e
     name: ingress-config
@@ -105,7 +115,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-03-06T12:01:19.696391864Z"
+    created: "2022-03-08T04:05:45.326683984Z"
     description: A Helm chart for Kubernetes
     digest: 6d72fb21d7bda15693f377feac6da5fe4a1d8e6ec360370a6823b3f7fe363b17
     name: ingress-config
@@ -116,7 +126,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-06T12:01:19.698549033Z"
+    created: "2022-03-08T04:05:45.329515458Z"
     description: A Helm chart for Kubernetes
     digest: 7934a2e28174b5bc666e79ec4586264188b4c141f09fcec25294cfface8a57fa
     name: mychart
@@ -127,7 +137,7 @@ entries:
   myweb:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-06T12:01:19.701841763Z"
+    created: "2022-03-08T04:05:45.333576818Z"
     description: A Helm chart for Kubernetes
     digest: c0d520f36b653c5fd5e86ffbbe96f57ca3ad85b5f11f75299b4dbb6b51a809e2
     name: myweb
@@ -137,7 +147,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-06T12:01:19.70109442Z"
+    created: "2022-03-08T04:05:45.332776083Z"
     description: A Helm chart for Kubernetes
     digest: a8796e4f3a55aa8eac42c4baa4e1228a0ca67ca6b36b8eb92b6009e9c030d90a
     name: myweb
@@ -147,7 +157,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-06T12:01:19.699902383Z"
+    created: "2022-03-08T04:05:45.33137744Z"
     description: A Helm chart for Kubernetes
     digest: 4da3c468583d30c11da1fee10351f86fe93fb45952dd92cfc4e7c5d5bd1851fb
     name: myweb
@@ -157,7 +167,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-06T12:01:19.699221754Z"
+    created: "2022-03-08T04:05:45.330217829Z"
     description: A Helm chart for Kubernetes
     digest: 303e356ea770fca88a9d7e550b4e0b0c42acdec58dfc69eb127b6ca905324d4c
     name: myweb
@@ -165,4 +175,4 @@ entries:
     urls:
     - https://xwzhai.github.io/hm-repo/myweb-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-06T12:01:19.69124253Z"
+generated: "2022-03-08T04:05:45.320656587Z"
